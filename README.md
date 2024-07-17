@@ -1,4 +1,3 @@
-# MOD-9-READMEorNot
 # project title example
 
 ## Description
